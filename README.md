@@ -13,7 +13,7 @@
 #### Откройте терминал (или командную строку) и выполните команду для клонирования репозитория:
 
 ```
-git clone https://github.com/AtheistATT/scrooge.git
+git clone https://github.com/AtheistATT/scrooge
 cd scrooge
 ```
 ### Создание виртуального окружения
